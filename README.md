@@ -48,8 +48,7 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ![Screenshot 2025-03-26 160849](https://github.com/user-attachments/assets/d3d7d649-b430-4234-8bd3-6d589b851304)
 
 
-![Screenshot 2025-03-26 160820](https://github.com/user-attachments/assets/88ad8610-fb42-448e-a2d4-525b3bebe436)
-
+![image](https://github.com/user-attachments/assets/ee5fde4d-f4a3-48c2-b258-39b6796dc531)
 
 
 ## Output
